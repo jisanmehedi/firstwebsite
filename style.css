@@ -1,0 +1,60 @@
+*{margin:0;padding:0;outline:0;}
+body{font-family:arial;font-size:14px;line-height:18px;color:#000;background: #CFCFD1;}
+
+
+.templete{width:960px;margin:0 auto; }
+.clear{overflow:hidden;}
+.headersection{height:px;;background:#AC7C22;color:#fff;}
+.headersection h2{font-size:40px;padding-top:32px;text-align:center;}
+
+
+.navsection{background: #e6af4b;color: #fff;}
+.navsection ul{margin:0;padding:0;list-style:none;}
+.navsection ul li {display:block;float:left;}
+.navsection ul li a {
+	display: block;
+	background: #fff none repeat scroll 0 0;
+	text-decoration: none;
+	padding: 5px 30px;
+	background: #d9a23e;
+	margin: 5px;
+	font-size: 20px;
+	color: #000;
+	border: 1px solid #C49A4C;
+}
+.navsection ul li a:hover{background:#000;color:#fff}
+.contentsection{background:#fff;}
+.maincontent {
+	background: #f3e6d7 none repeat scroll 0 0;
+	float: left;
+	width: 628px;
+	padding: 8px 20px;
+	margin: 15px 15px 15px 0px;
+	border: 1px solid #b7801c;
+}
+
+.readmore {
+	float: right;
+	margin-top: 10px;
+}
+.readmore a {
+	text-decoration: none;
+	background: #fff;
+	padding: 4px 8px;
+	display: block;
+	font-size: 15px;
+	color: #333;
+	border: 1px solid #000;
+	border-radius:3px;
+}
+.readmore a:hover{color:red;}
+.sidebar{float: right;
+margin-bottom: 15px;
+padding: 10px;
+width: 255px;
+background: #f3e6d7;
+margin-top: 15px;}
+
+.footersection {height:90px;background:#AC7C22;}
+.footersection p{color: #fff;text-align: center;font-size: 40px;
+padding: 33px;font-family: arial;}
